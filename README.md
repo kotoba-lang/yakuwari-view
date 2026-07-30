@@ -112,7 +112,7 @@ clojure -M:test   # JVM host — must agree exactly
 
 ## Status
 
-Created 2026-07-30 for superproject ADR-2607300500 (awai business yakuwari
+Created 2026-07-30 for superproject ADR-2607300800 (awai business yakuwari
 fleet). Consumers land after it: the cockpit pane and the local workspace
 surface. Until both exist this library has tests but no production caller, so
 treat the markup vocabulary as still cheap to change.
