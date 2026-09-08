@@ -44,7 +44,7 @@
 
   Values are emitted verbatim as strings. Nothing here escapes anything —
   hiccup renderers do that, and doing it twice double-escapes."
-  (:require [clojure.string :as str]))
+  (:require [kotoba.lang.text :as str]))
 
 (defn- label
   "A keyword as text, dropping the namespace: an operator reads `director`,
