@@ -4,8 +4,8 @@ Roles and their live runs → **one display model**, plus hiccup in a class
 vocabulary the consuming surface styles itself.
 
 ```
-src/yakuwari_view/model.cljc    roles + runs -> display model, totals, health
-src/yakuwari_view/hiccup.cljc   display model -> plain elements + data-* state
+src/yakuwari_view/model.cljk    roles + runs -> display model, totals, health
+src/yakuwari_view/hiccup.cljk   display model -> plain elements + data-* state
 ```
 
 ## Why it exists
