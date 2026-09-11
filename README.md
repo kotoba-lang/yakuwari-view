@@ -105,7 +105,7 @@ the rows beneath it.
 
 ```sh
 npm test          # nbb / JS host  (needs a sibling kotoba-lang/yakuwari checkout)
-clojure -M:test   # JVM host — must agree exactly
+kbb -M:test   # JVM host — must agree exactly
 ```
 
 28 tests, 57 assertions, both hosts.
